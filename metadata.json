@@ -1,0 +1,6 @@
+{
+  "name": "EduGenie – Your Personal AI Learning Assistant",
+  "description": "Learn Smarter. Understand Faster. A modern AI-powered education platform for interactive Q&A, structured topic explanations, document summarization, adaptive quizzes, and personalized learning paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
